@@ -1,0 +1,5 @@
+* Primer parcial 354 Pregunta 1
+
+Jesus Rodolfo Izurieta Veliz
+
+De un dataset de su tarea anterior en WEKA, realice tres algoritmos de preprocesamiento.
